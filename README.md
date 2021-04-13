@@ -1,7 +1,8 @@
 
 # Documentation ADOBE InDesign scripts [BROUILLON]
 
-Plugin visant à simplifier l'importation de produit du module XML Data Provider d'EasyCatalog dans InDesign.
+
+Plugin visant à simplifier l'importation de produit du module XML Data Provider d'EasyCatalog dans InDesign + documentation technique d'ADOBE InDesign scripts.
 
 ## Introduction
 ### Informations
