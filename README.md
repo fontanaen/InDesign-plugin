@@ -1,5 +1,5 @@
 
-# Documentation ADOBE InDesign scripts
+# Documentation ADOBE InDesign scripts [BROUILLON]
 
 Plugin visant à simplifier l'importation de produit du module XML Data Provider d'EasyCatalog.
 
