@@ -185,8 +185,6 @@ Il faut donc créer des scripts en amont et les lier au menu.
 
 ### Exemple de menu personnalisé
 
-Les fonctions dîtes à l'écoute `(function() {})()` ne sont pas nécessaires comme dans l'exemple.
-
     var  myFolder  =  Folder(app.activeScript.path);
 	myFolder  =  myFolder.parent  +  '/Scripts Panel/';
 
